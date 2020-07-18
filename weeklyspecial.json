@@ -1,0 +1,84 @@
+[
+    {
+        "offerPrice": "0.40",
+        "orgPrice": "0.50",
+        "prodDesc": "Orange",
+        "prodId": "1002",
+        "prodImg": "orange.png",
+        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
+        "countryOrg": "China"
+    },
+
+    {
+        "offerPrice": "1.30",
+        "orgPrice": "1.40",
+        "prodDesc": "Cabbage",
+        "prodId": "2002",
+        "prodImg": "cabbage.png",
+        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
+        "countryOrg": "China"
+    },
+    {
+        "offerPrice": "1.30",
+        "orgPrice": "1.50",
+        "prodDesc": "Carrot 1 packet",
+        "prodId": "2004",
+        "prodImg": "carrot_packet.png",
+        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
+        "countryOrg": "Australia"
+    },
+    {
+        "offerPrice": "1.90",
+        "orgPrice": "2.00",
+        "prodDesc": "Cucumber x3",
+        "prodId": "2005",
+        "prodImg": "cucumber.png",
+        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
+        "countryOrg": "Malaysia"
+    },
+    {
+        "offerPrice": "2.90",
+        "orgPrice": "3.20",
+        "prodDesc": "Apple x4",
+        "prodId": "1001",
+        "prodImg": "apple_4.png",
+        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
+        "countryOrg": "China"
+    },
+    {
+        "offerPrice": "5.25",
+        "orgPrice": "5.5",
+        "prodDesc": "Pork",
+        "prodId": "4002",
+        "prodImg": "pork.png",
+        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
+        "countryOrg": "Indonesia"
+    },
+    {
+        "offerPrice": "3.80",
+        "orgPrice": "4.00",
+        "prodDesc": "Prawn",
+        "prodId": "4005",
+        "prodImg": "prawn.png",
+        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
+        "countryOrg": "Malaysia"
+    },
+    {
+        "offerPrice": "3.60",
+        "orgPrice": "3.90",
+        "prodDesc": "Green grapes",
+        "prodId": "1010",
+        "prodImg": "green_grapes.png",
+        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
+        "countryOrg": "Eygpt"
+    },
+    {
+        "offerPrice": "2.40",
+        "orgPrice": "2.60",
+        "prodDesc": "Kiwi 6pc",
+        "prodId": "1008",
+        "prodImg": "kiwi.png",
+        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
+        "countryOrg": "New Zealand"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "offerPrice": "2.00",
+        "orgPrice": "2.50",
+        "prodDesc": "Honeydew",
+        "prodId": "1004",
+        "prodImg": "honeydew.png",
+        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
+        "countryOrg": "Malaysia"
+    },
+    {
+        "offerPrice": "3.00",
+        "orgPrice": "3.50",
+        "prodDesc": "Watermelon",
+        "prodId": "1005",
+        "prodImg": "watermelon.png",
+        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
+        "countryOrg": "Malaysia"
+    },
+
+    {
+        "offerPrice": "5.25",
+        "orgPrice": "5.5",
+        "prodDesc": "Pork",
+        "prodId": "4002",
+        "prodImg": "pork.png",
+        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
+        "countryOrg": "Indonesia"
+    },
+
+    {
+        "offerPrice": "1.30",
+        "orgPrice": "1.40",
+        "prodDesc": "Cabbage",
+        "prodId": "2002",
+        "prodImg": "cabbage.png",
+        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
+        "countryOrg": "China"
+    },
+    {
+        "offerPrice": "1.30",
+        "orgPrice": "1.50",
+        "prodDesc": "Carrot 1 packet",
+        "prodId": "2004",
+        "prodImg": "carrot_packet.png",
+        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
+        "countryOrg": "Australia"
+    },
+    {
+        "offerPrice": "1.90",
+        "orgPrice": "2.00",
+        "prodDesc": "Cucumber x3",
+        "prodId": "2005",
+        "prodImg": "cucumber.png",
+        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
+        "countryOrg": "Malaysia"
+    },
+    {
+        "offerPrice": "3.60",
+        "orgPrice": "3.80",
+        "prodDesc": "Fish fillet",
+        "prodId": "4004",
+        "prodImg": "fish_fillet.png",
+        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
+        "countryOrg": "Norway"
+    }
+]
