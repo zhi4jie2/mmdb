@@ -1,8 +1,9 @@
-[{
+[
+    {
         "offerPrice": "0.80",
         "orgPrice": "0.90",
         "prodDesc": "Apple",
-        "prodId": "1000",
+        "prodId": "FRUT1000",
         "prodImg": "apple.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "China"
@@ -11,7 +12,7 @@
         "offerPrice": "0.40",
         "orgPrice": "0.50",
         "prodDesc": "Orange",
-        "prodId": "1002",
+        "prodId": "FRUIT1001",
         "prodImg": "orange.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "China"
@@ -20,7 +21,7 @@
         "offerPrice": "2.90",
         "orgPrice": "3.20",
         "prodDesc": "Apple x4",
-        "prodId": "1001",
+        "prodId": "FRUIT1002",
         "prodImg": "apple_4.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "China"
@@ -29,7 +30,7 @@
         "offerPrice": "",
         "orgPrice": "2.00",
         "prodDesc": "Pineapple",
-        "prodId": "1003",
+        "prodId": "FRUIT1003",
         "prodImg": "pineapple.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "Malaysia"
@@ -38,7 +39,7 @@
         "offerPrice": "2.00",
         "orgPrice": "2.50",
         "prodDesc": "Honeydew",
-        "prodId": "1004",
+        "prodId": "FRUIT1004",
         "prodImg": "honeydew.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "Malaysia"
@@ -47,7 +48,7 @@
         "offerPrice": "3.00",
         "orgPrice": "3.50",
         "prodDesc": "Watermelon",
-        "prodId": "1005",
+        "prodId": "FRUIT1005",
         "prodImg": "watermelon.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "Malaysia"
@@ -56,7 +57,7 @@
         "offerPrice": "3.95",
         "orgPrice": "4.50",
         "prodDesc": "Grapes",
-        "prodId": "1006",
+        "prodId": "FRUIT1006",
         "prodImg": "grapes.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "Australia"
@@ -65,7 +66,7 @@
         "offerPrice": "",
         "orgPrice": "2.60",
         "prodDesc": "Banana",
-        "prodId": "1007",
+        "prodId": "FRUIT1007",
         "prodImg": "banana.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "Phillipes"
@@ -74,7 +75,7 @@
         "offerPrice": "2.40",
         "orgPrice": "2.60",
         "prodDesc": "Kiwi 6pc",
-        "prodId": "1008",
+        "prodId": "FRUIT1008",
         "prodImg": "kiwi.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "New Zealand"
@@ -83,7 +84,7 @@
         "offerPrice": "",
         "orgPrice": "3.00",
         "prodDesc": "Strawberries",
-        "prodId": "1009",
+        "prodId": "FRUT1009",
         "prodImg": "strawberry.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "Malaysia"
@@ -92,7 +93,7 @@
         "offerPrice": "3.60",
         "orgPrice": "3.90",
         "prodDesc": "Green grapes",
-        "prodId": "1010",
+        "prodId": "FRUIT1010",
         "prodImg": "green_grapes.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "Egypt"
@@ -101,10 +102,9 @@
         "offerPrice": "1.20",
         "orgPrice": "1.00",
         "prodDesc": "Guava",
-        "prodId": "1011",
+        "prodId": "FRUIT1011",
         "prodImg": "guava.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "Vietnam"
     }
 ]
-

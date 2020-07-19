@@ -1,9 +1,9 @@
-
-[{
+[
+    {
         "offerPrice": "1.20",
         "orgPrice": "1.50",
         "prodDesc": "Broccoli",
-        "prodId": "2000",
+        "prodId": "VEGE2000",
         "prodImg": "broccoli.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "Australia"
@@ -12,7 +12,7 @@
         "offerPrice": "1.30",
         "orgPrice": "1.40",
         "prodDesc": "Cabbage",
-        "prodId": "2002",
+        "prodId": "VEGE2002",
         "prodImg": "cabbage.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "China"
@@ -21,7 +21,7 @@
         "offerPrice": "1.80",
         "orgPrice": "1.90",
         "prodDesc": "Cauliflower",
-        "prodId": "2003",
+        "prodId": "VEGE2003",
         "prodImg": "cauliflower.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "China"
@@ -30,7 +30,7 @@
         "offerPrice": "1.30",
         "orgPrice": "1.50",
         "prodDesc": "Carrot 1 packet",
-        "prodId": "2004",
+        "prodId": "VEGE2004",
         "prodImg": "carrot_packet.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "Australia"
@@ -39,7 +39,7 @@
         "offerPrice": "1.90",
         "orgPrice": "2.00",
         "prodDesc": "Cucumber x3",
-        "prodId": "2005",
+        "prodId": "VEGE2005",
         "prodImg": "cucumber.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "Malaysia"
@@ -48,7 +48,7 @@
         "offerPrice": "2.30",
         "orgPrice": "2.50",
         "prodDesc": "Tomato 150g",
-        "prodId": "2006",
+        "prodId": "VEGE2006",
         "prodImg": "tomato.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "Malaysia"
@@ -57,7 +57,7 @@
         "offerPrice": "",
         "orgPrice": "1.90",
         "prodDesc": "Chilli",
-        "prodId": "2007",
+        "prodId": "VEGE2007",
         "prodImg": "chilli.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "Malaysia"
@@ -66,7 +66,7 @@
         "offerPrice": "",
         "orgPrice": "1.90",
         "prodDesc": "Spinach",
-        "prodId": "2008",
+        "prodId": "VEGE2008",
         "prodImg": "spinach.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "China"
@@ -75,7 +75,7 @@
         "offerPrice": "3.00",
         "orgPrice": "3.40",
         "prodDesc": "Potatos 1kg",
-        "prodId": "2009",
+        "prodId": "VEGE2009",
         "prodImg": "potatos_1kg.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "Indonesia"
@@ -84,7 +84,7 @@
         "offerPrice": "2.10",
         "orgPrice": "2.50",
         "prodDesc": "Asparagus",
-        "prodId": "2010",
+        "prodId": "VEGE2010",
         "prodImg": "asparagus.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "China"
@@ -93,7 +93,7 @@
         "offerPrice": "",
         "orgPrice": "2.40",
         "prodDesc": "Celery",
-        "prodId": "2011",
+        "prodId": "VEGE2011",
         "prodImg": "celery.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "Australia"
@@ -102,10 +102,9 @@
         "offerPrice": "2.10",
         "orgPrice": "2.50",
         "prodDesc": "Button Mushroom",
-        "prodId": "2012",
+        "prodId": "VEGE2012",
         "prodImg": "white_button_mushroom.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "China"
     }
 ]
-

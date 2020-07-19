@@ -3,7 +3,7 @@
         "offerPrice": "6.25",
         "orgPrice": "6.50",
         "prodDesc": "Chicken(whole)",
-        "prodId": "4000",
+        "prodId": "MEAT4000",
         "prodImg": "chicken_whole.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "Malaysia"
@@ -12,7 +12,7 @@
         "offerPrice": "2.40",
         "orgPrice": "2.50",
         "prodDesc": "Chicken breast",
-        "prodId": "4001",
+        "prodId": "MEAT4001",
         "prodImg": "chicken_breast.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "Malaysia"
@@ -21,7 +21,7 @@
         "offerPrice": "5.25",
         "orgPrice": "5.5",
         "prodDesc": "Pork",
-        "prodId": "4002",
+        "prodId": "MEAT4002",
         "prodImg": "pork.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "Indonesia"
@@ -30,7 +30,7 @@
         "offerPrice": "",
         "orgPrice": "4.50",
         "prodDesc": "Beef",
-        "prodId": "4003",
+        "prodId": "MEAT4003",
         "prodImg": "beef.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "Australia"
@@ -39,7 +39,7 @@
         "offerPrice": "3.60",
         "orgPrice": "3.80",
         "prodDesc": "Fish fillet",
-        "prodId": "4004",
+        "prodId": "MEAT4004",
         "prodImg": "fish_fillet.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "USA"
@@ -48,7 +48,7 @@
         "offerPrice": "3.80",
         "orgPrice": "4.00",
         "prodDesc": "Prawn",
-        "prodId": "4005",
+        "prodId": "MEAT4005",
         "prodImg": "prawn.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "Malaysia"
@@ -58,7 +58,7 @@
         "offerPrice": "",
         "orgPrice": "4.50",
         "prodDesc": "Lamb",
-        "prodId": "4006",
+        "prodId": "MEAT4006",
         "prodImg": "lamb.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet",
         "countryOrg": "Malaysia"
@@ -67,7 +67,7 @@
         "offerPrice": "",
         "orgPrice": "4.80",
         "prodDesc": "Squid",
-        "prodId": "4007",
+        "prodId": "MEAT4007",
         "prodImg": "squid.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet",
         "countryOrg": "Malaysia"
@@ -76,7 +76,7 @@
         "offerPrice": "7.50",
         "orgPrice": "8.00",
         "prodDesc": "Salmon fillet x2",
-        "prodId": "4008",
+        "prodId": "MEAT4008",
         "prodImg": "salmon_fillet2.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "Norway"
