@@ -525,5 +525,13 @@
             "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
             "countryOrg": "Norway"
         }
+    ],
+
+    "location": [
+        {
+            "Branch Name": "MM HyperMart Tengah",
+            "latitude": 1.355053,
+            "longitude": 103.730932
+        }
     ]
 }
