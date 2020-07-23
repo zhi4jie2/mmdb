@@ -41,7 +41,7 @@
         "prodDesc": "Fish fillet",
         "prodId": "MEAT4004",
         "prodImg": "fish_fillet.png",
-        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
+        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet debitis",
         "countryOrg": "USA"
     },
     {
@@ -50,17 +50,7 @@
         "prodDesc": "Prawn",
         "prodId": "MEAT4005",
         "prodImg": "prawn.png",
-        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
-        "countryOrg": "Malaysia"
-    },
-
-    {
-        "offerPrice": "",
-        "orgPrice": "4.50",
-        "prodDesc": "Lamb",
-        "prodId": "MEAT4006",
-        "prodImg": "lamb.png",
-        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet",
+        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet debitis",
         "countryOrg": "Malaysia"
     },
     {
