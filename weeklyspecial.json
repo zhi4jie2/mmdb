@@ -37,15 +37,6 @@
         "countryOrg": "Malaysia"
     },
     {
-        "offerPrice": "2.90",
-        "orgPrice": "3.20",
-        "prodDesc": "Apple x4",
-        "prodId": "FRUIT1002",
-        "prodImg": "apple_4.png",
-        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
-        "countryOrg": "China"
-    },
-    {
         "offerPrice": "5.25",
         "orgPrice": "5.5",
         "prodDesc": "Pork",
