@@ -56,15 +56,6 @@
     {
         "offerPrice": "",
         "orgPrice": "1.90",
-        "prodDesc": "Chilli",
-        "prodId": "VEGE2007",
-        "prodImg": "chilli.png",
-        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
-        "countryOrg": "Malaysia"
-    },
-    {
-        "offerPrice": "",
-        "orgPrice": "1.90",
         "prodDesc": "Spinach",
         "prodId": "VEGE2008",
         "prodImg": "spinach.png",
@@ -97,14 +88,5 @@
         "prodImg": "celery.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "Australia"
-    },
-    {
-        "offerPrice": "2.10",
-        "orgPrice": "2.50",
-        "prodDesc": "Button Mushroom",
-        "prodId": "VEGE2012",
-        "prodImg": "white_button_mushroom.png",
-        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
-        "countryOrg": "China"
     }
 ]
