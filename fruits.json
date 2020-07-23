@@ -18,24 +18,6 @@
         "countryOrg": "China"
     },
     {
-        "offerPrice": "2.90",
-        "orgPrice": "3.20",
-        "prodDesc": "Apple x4",
-        "prodId": "FRUIT1002",
-        "prodImg": "apple_4.png",
-        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
-        "countryOrg": "China"
-    },
-    {
-        "offerPrice": "",
-        "orgPrice": "2.00",
-        "prodDesc": "Pineapple",
-        "prodId": "FRUIT1003",
-        "prodImg": "pineapple.png",
-        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
-        "countryOrg": "Malaysia"
-    },
-    {
         "offerPrice": "2.00",
         "orgPrice": "2.50",
         "prodDesc": "Honeydew",
