@@ -54,14 +54,5 @@
         "prodImg": "cucumber.png",
         "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
         "countryOrg": "Malaysia"
-    },
-    {
-        "offerPrice": "3.60",
-        "orgPrice": "3.80",
-        "prodDesc": "Fish fillet",
-        "prodId": "MEAT4004",
-        "prodImg": "fish_fillet.png",
-        "detailDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa aliquam iste eveniet, repellat libero debitis",
-        "countryOrg": "Norway"
     }
 ]
